@@ -6,7 +6,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # User settings
 username: Tyrone Damasceno
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+user_description: >
+  I'm a Software Engineer, always searching for the next challenge;
+  In love with Python language and community, I really think <b>people > technology</b><br />
+  For now, I'm working in large web systems on financial market, looking for software quality,
+  using mainly Python with Django, docker and AWS infrastructure. I love to help, so
+  feel free to contact me anytime =D
 user_title: Software Engineer
 email: tyronedamasceno@gmail.com
 # twitter_username: lorem_ipsum
